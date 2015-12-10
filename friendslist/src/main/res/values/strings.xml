@@ -4,4 +4,10 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <integer name="com_vk_sdk_AppId">5182668</integer>
+
+    <string name="friend_online">Online</string>
+    <string name="friend_offline">Offline</string>
+
 </resources>
